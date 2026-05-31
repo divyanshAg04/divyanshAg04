@@ -39,9 +39,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=gruvbox" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&title_color=89b4fa&icon_color=89dceb" height="170"/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshAg04&layout=compact&theme=gruvbox" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshAg04&layout=compact&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&title_color=89b4fa" height="170"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanshAg04&theme=gruvbox"/>
+  <img src="https://streak-stats.demolab.com?user=divyanshAg04&theme=nord&background=1e1e2e&ring=89b4fa&fire=89b4fa&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=89dceb&dates=a6adc8"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshAg04&theme=gruvbox"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshAg04&theme=nord&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89dceb&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ### ⚡ LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DivyanshAg04?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/DivyanshAg04?theme=nord&font=Karma&ext=contest"/>
 </p>
 ---
 
