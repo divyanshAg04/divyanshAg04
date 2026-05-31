@@ -3,10 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=divyanshAg04&color=8B5E3C&style=flat-square)
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-agrawal04/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DivyanshAg04/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshagrawal536@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/divyanshAg04?style=for-the-badge&color=8B5E3C&labelColor=FAF8F5)](https://github.com/divyanshAg04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-agrawal04/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DivyanshAg04/)
+[![Email](https://img.shields.io/badge/Email-00599C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshagrawal536@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/divyanshAg04?style=for-the-badge&color=EA4335&labelColor=FAF8F5)](https://github.com/divyanshAg04)
 
 </div>
 
@@ -17,20 +17,20 @@
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-EA4335?style=for-the-badge&logo=HTML&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-0A66C2?style=for-the-badge&logo=CSS&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FFCA28?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-A8B9CC?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B5E3C?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-0A66C2?style=for-the-badge&logo=HTML&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-EA4335?style=for-the-badge&logo=CSS&logoColor=black)
 
 ### Frameworks & Tools
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-3776AB?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&title_color=89b4fa&icon_color=89dceb" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&title_color=89b4fa&icon_color=89dceb" height="170"/[...]
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshAg04&layout=compact&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&title_color=89b4fa" height="170"/>
 </p>
