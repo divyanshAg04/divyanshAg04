@@ -5,7 +5,7 @@ import requests
 # -------------------------------
 # CONFIG
 # -------------------------------
-USERNAME = "shaillybhardwaj123"
+USERNAME = "divyanshAg04"
 README_PATH = "README.md"
 TOKEN = os.getenv("GITHUB_TOKEN")
 
