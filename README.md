@@ -51,94 +51,63 @@
 
 <div align="center">
 
-### 🔤 Programming Languages
+### 🔤 Languages
 
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
       <br/><strong>Java</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-      <br/><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
       <br/><strong>Python</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="60" height="60"/>
       <br/><strong>TypeScript</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="60" height="60"/>
       <br/><strong>SQL</strong>
     </td>
   </tr>
 </table>
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend
 
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60"/>
       <br/><strong>Next.js 14</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60"/>
       <br/><strong>React</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-      <br/><strong>HTML5</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-      <br/><strong>CSS3</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60"/>
       <br/><strong>Tailwind CSS</strong>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
-      <br/><strong>Bootstrap</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
-      <br/><strong>Figma</strong>
-    </td>
-    <td colspan="3"></td>
-  </tr>
 </table>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend & Database
 
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60"/>
       <br/><strong>Node.js</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" height="60"/>
       <br/><strong>Express</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
       <br/><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-      <br/><strong>MySQL</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
-      <br/><strong>Firebase</strong>
     </td>
   </tr>
 </table>
@@ -147,102 +116,37 @@
 
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" height="60"/>
       <br/><strong>Docker</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="60" height="60"/>
       <br/><strong>Kubernetes</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="60" height="60"/>
       <br/><strong>Jenkins</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  </tr>
+</table>
+
+### 🔧 Tools & Version Control
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
       <br/><strong>Git</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
       <br/><strong>GitHub</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-      <br/><strong>Linux</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
-      <br/><strong>Bash/Shell</strong>
-    </td>
-    <td colspan="3"></td>
-  </tr>
-</table>
-
-### 🛠️ Development Tools & Platforms
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/>
       <br/><strong>VS Code</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
-      <br/><strong>Postman</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="50" height="50"/>
-      <br/><strong>NPM</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50"/>
-      <br/><strong>Maven</strong>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="50" height="50"/>
-      <br/><strong>Gradle</strong>
-    </td>
-  </tr>
-</table>
-
-### 📚 Core CS Concepts
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square&logoColor=white" />
-      <br/><strong>Data Structures</strong><br/>Algorithms
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square&logoColor=white" />
-      <br/><strong>Object Oriented</strong><br/>Programming
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logoColor=white" />
-      <br/><strong>Database</strong><br/>Management
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/OS-000000?style=flat-square&logoColor=white" />
-      <br/><strong>Operating</strong><br/>Systems
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/CN-009639?style=flat-square&logoColor=white" />
-      <br/><strong>Computer</strong><br/>Networks
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/CI%2FCD-0A47A6?style=flat-square&logoColor=white" />
-      <br/><strong>CI/CD</strong><br/>Pipelines
-    </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/System Design-FF6F00?style=flat-square&logoColor=white" />
-      <br/><strong>System</strong><br/>Design
-    </td>
-    <td colspan="3"></td>
   </tr>
 </table>
 
@@ -252,10 +156,10 @@
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|:---:|:---|:---|:---:|
-| **🏥 MedCore** | Advanced Hospital Management System with patient management, appointments, billing, pharmacy inventory, medical records, and real‑time analytics dashboard. Implements Role‑Based Access Control (RBAC) with JWT authentication for secure, multi‑user operations. | Java, Spring Boot, MongoDB, React, Docker, Kubernetes | [View](https://github.com/divyanshAg04) |
-| **⚙️ DevOps Java App** | Java application built with DevOps best practices: CI/CD using Jenkins and GitHub, containerisation with Docker, and orchestration via Kubernetes. Strengthened auto‑deployment and infrastructure automation workflows. | Java, Jenkins, Docker, Kubernetes, GitHub, Linux | [View](https://github.com/divyanshAg04) |
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:---:|:---|:---|
+| **🏥 MedCore** | Advanced Hospital Management System with patient management, appointments, billing, pharmacy inventory, medical records, and real‑time analytics dashboard. Implements Role‑Based Access Control (RBAC) with JWT authentication for secure, multi‑user operations. | Java, Spring Boot, MongoDB, React, Docker, Kubernetes |
+| **⚙️ DevOps Java App** | Java application built with DevOps best practices: CI/CD using Jenkins and GitHub, containerisation with Docker, and orchestration via Kubernetes. | Java, Jenkins, Docker, Kubernetes, GitHub, Linux |
 
 </div>
 
