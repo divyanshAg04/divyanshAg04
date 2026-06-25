@@ -40,7 +40,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 ## 🛠️ Tech Arsenal
 
-<div>
+<div align="center">
 
 ### 🔤 Languages
 
@@ -158,7 +158,6 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
   <tr>
     <td align="center"><a href="mailto:divyanshagrawal536@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a></td>
     <td align="center"><a href="https://linkedin.com/in/divyansh-agrawal04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-    <td align="center"><a href="https://divyansh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat&logo=vercel&logoColor=black" alt="Portfolio" /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://leetcode.com/DivyanshAg04"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
