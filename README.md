@@ -28,21 +28,43 @@
 ---
 
 ## 💼 About Me
+
 <div align="center">
-  
-<p style="font-size: 18px; color: #ffffff; max-width: 700px;">
-  I'm a <b style="color: #00f3ff;">Full Stack Developer</b> with deep expertise in <b style="color: #ff00e5;">Java</b> 
-  and modern web technologies. I thrive on building scalable, high‑performance applications using Next.js, 
-  MongoDB, and REST APIs — with a relentless focus on clean architecture and automation.
+
+### 🚀 **Full Stack Developer | DevOps Architect | Problem Solver**
+
+<p style="font-size: 16px; color: #ffffff; max-width: 800px; line-height: 1.8;">
+I'm a passionate <b style="color: #00f3ff;">Full Stack Developer</b> and <b style="color: #ff00e5;">DevOps enthusiast</b> dedicated to building scalable, production‑grade applications that solve real-world problems. With expertise spanning <b>Java backend systems</b>, <b>modern frontend frameworks</b>, and <b>cloud infrastructure orchestration</b>, I craft elegant solutions that balance performance, maintainability, and architectural excellence.
 </p>
 
+### 🎯 **What I Do:**
+
+- **🏗️ Full-Stack Development** – Design and implement end‑to‑end applications using Next.js, React, Node.js, and Java, ensuring responsive UX and robust APIs
+- **☕ Java Mastery** – Build high‑performance backend systems with focus on OOP principles, multithreading, and JVM optimization
+- **🐳 DevOps & Cloud** – Automate deployment pipelines, containerize applications with Docker, orchestrate with Kubernetes, and implement CI/CD workflows using Jenkins
+- **🗄️ Database Architecture** – Design scalable data models with MongoDB and SQL, optimize queries, and ensure data integrity
+- **⚙️ System Design** – Architect microservices, implement event‑driven systems, and design for scalability and reliability
+
+### 💡 **Core Philosophy:**
+
+> *"Code is read 10x more than it's written"* – I believe in writing clean, self‑documenting code that's easy to maintain and extend. I'm obsessed with automation, DevOps best practices, and building systems that scale gracefully.
+
 <br />
-  
+
+**Key Strengths:**
+- 🎯 **Full‑Stack Expertise** – Equally comfortable with frontend pixels and database indexes
+- 🔄 **End-to-End Problem Solving** – From concept to production deployment
+- 📊 **Data-Driven Development** – Optimize performance through analytics and monitoring
+- 🤝 **Collaborative Mindset** – Strong communicator who thrives in team environments
+- 🎓 **Continuous Learner** – Always exploring new technologies and best practices
+
+<br />
+
 <kbd>☕ Java</kbd> <kbd>⚛️ Next.js</kbd> <kbd>🐳 Docker</kbd> <kbd>☸️ Kubernetes</kbd> <kbd>🛢️ MongoDB</kbd> <kbd>⚡ TypeScript</kbd>
 
 <br /><br />
   
-<b>📍 India · 🌍 Open to Global Opportunities</b>
+<b>📍 India · 🌍 Open to Global Opportunities · 💼 Available for Full-Time & Contract Work</b>
   
 </div>
 
