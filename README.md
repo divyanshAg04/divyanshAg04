@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&height=300&text=Divyansh%20Agrawal&fontSize=46&color=0:6a0dad,100:00bfff&fontColor=ffffff&stroke=ffffff&strokeWidth=1"/>
 
-<!-- Typing animation -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=1000&color=ffffff&center=true&width=760&height=50&lines=Divyansh%20Agrawal%0AGalactic%20Developer%20%E2%80%A2%20AI%20Pioneer%0AIoT%20Explorer" alt="Typing SVG" />
-
 # 🚀 Galactic Developer · AI Pioneer · IoT Explorer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=divyanshAg04&color=6a0dad&style=flat-square&label=STAR+GAZERS)](https://github.com/divyanshAg04)
@@ -20,10 +16,14 @@
 ## ✨ Bio – Interstellar Profile
 
 <div align="center">
+░█████╗░██╗░░░░░██╗███████╗███╗░░██╗  ██████╗░░█████╗░██╗░░░██╗██�[...]
+██╔══██╗██║░░░░░██║██╔════╝████╗░██║  ██╔══██╗██╔══██╗╚██╗░██╔╝██�[...]
+███████║██║░░░░░██║█████╗░░██╔██╗██║  ██████╔╝██║░░██║░╚████╔╝░██�[...]
+██╔══██║██║░░░░░██║██╔══╝░░██║╚████║  ██╔══██╗██║░░██║░░╚██╔╝░░██�[...]
+██║░░██║███████╗██║███████╗██║░╚███║  ██║░░██║╚█████╔╝░░░██║░░░██�[...]
+╚═╝░░╚═╝╚══════╝╚═╝╚══════╝╚═╝░░╚══╝  ╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚═�[...]
 
-<!-- small animated space GIF to give a subtle animated background feel -->
-
-<img src="https://raw.githubusercontent.com/adiwajshing/Animated-README-assets/main/space.gif" alt="space-gif" width="720"/>
+text
 
 </div>
 
@@ -71,14 +71,14 @@ Based in **Mathura, India**, I build digital galaxies one commit at a time.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=radical&bg_color=0d0b2b&title_color=00bfff&icon_color=6a0dad&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshAg04&layout=compact&theme=radical&bg_color=0d0b2b&title_color=00bfff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=radical&bg_color=0d0b2b&title_color=00bfff&icon_color=6a0dad&text_color=f[...]
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshAg04&layout=compact&theme=radical&bg_color=0d0b2b&title_color=00bfff&text_color=ffffff&hi[...]
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshAg04&theme=dark&background=0d0b2b&ring=6a0dad&fire=00bfff&currStreakLabel=6a0dad&sideLabels=00bfff&dates=ffffff&hide_border=true)](https://github.com/divyanshAg04)
+[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshAg04&theme=dark&background=0d0b2b&ring=6a0dad&fire=00bfff&currStreakLabel=6a0dad&sideLabels=00bfff&dates=ffffff&hide_border=true)](h[...]
 
 </div>
 
@@ -116,6 +116,8 @@ cd /home/divyansh/learning
 ├── Building a GraphQL API
 ├── Implementing CI/CD pipelines
 └── Studying transformer architectures
+
+text
 
 ---
 
