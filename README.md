@@ -17,32 +17,17 @@
 
 <div align="center">
 
-```text
-      .-"""-.
-     /  .--.  \
-    /  /    \  \
-    |  |    |  |
-    |  |.-""-.| |
-   ///`.::::.`\\\
-  |||   '::'   |||
-  |||   ALIEN  |||
-  |||   SIGNAL |||
-   \\\  :::  ///
-    `='`---'`='
-```
+<p>
+Hi — I’m Divyansh Agrawal, a software developer from Mathura, India specializing in web development, artificial intelligence, and embedded systems. I build full‑stack applications, develop machine learning solutions for edge devices, and enjoy solving algorithmic problems.
+</p>
 
 </div>
 
-**Keyword:** rkh
-
-Greetings, traveller! I'm **Divyansh** — a developer navigating the vast universe of **web technologies, artificial intelligence, and embedded systems**.  
-Based in **Mathura, India**, I build digital galaxies one commit at a time.
-
-- 🌌 **Mission:** Craft seamless, intelligent applications.
-- 🪐 **Current orbit:** Learning advanced Node.js and microservices.
-- ⚡ **Stellar achievements:** 200+ LeetCode problems conquered.
-- 🔭 **Next frontier:** Computer vision & edge AI.
-- 📡 **Home base:** Mathura, Uttar Pradesh.
+- 🌌 Mission: Build reliable, user‑focused software that leverages AI and embedded systems.
+- 🪐 Current focus: Node.js, microservices, and on‑device computer vision.
+- ⚡ Achievements: 200+ solved problems on LeetCode and several hands‑on projects in IoT and ML.
+- 🔭 Learning: Transformer architectures and real‑time model inference on constrained hardware.
+- 📡 Location: Mathura, Uttar Pradesh, India.
 
 ---
 
