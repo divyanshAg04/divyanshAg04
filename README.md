@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyangAg04&color=ff00e5&style=flat-square&label=PROFILE%20VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=divyanshAg04&color=00f3ff&style=flat-square&label=PROFILE%20VIEWS)
 
 </div>
 
@@ -17,7 +17,6 @@
 
 ### 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=flat&logo=vercel&logoColor=black&labelColor=1a1a2e&logoWidth=20)](https://divyansh-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=1a1a2e&logoWidth=20)](https://linkedin.com/in/divyansh-agrawal04)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=flat&logo=leetcode&logoColor=black&labelColor=1a1a2e&logoWidth=20)](https://leetcode.com/DivyanshAg04)
 [![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1a1a2e&logoWidth=20)](mailto:divyanshagrawal536@gmail.com)
@@ -35,20 +34,13 @@
 Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about building scalable applications. I work with <b style="color: #ff00e5;">Java, Next.js, and DevOps</b> to create robust solutions from backend to frontend. I believe in clean code, continuous learning, and automating everything.
 </p>
 
-<br />
-
-<kbd>☕ Java</kbd> <kbd>⚛️ Next.js</kbd> <kbd>🐳 Docker</kbd> <kbd>☸️ Kubernetes</kbd> <kbd>🛢️ MongoDB</kbd> <kbd>⚡ TypeScript</kbd>
-
-<br /><br />
-
-<b>📍 India · 💼 Open to Opportunities</b>
-
 </div>
 
+ ---
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div>
 
 ### 🔤 Languages
 
@@ -83,6 +75,8 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 </div>
 
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -102,15 +96,15 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 ### 🎖️ GitHub Performance
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=divyangAg04&show_icons=true&theme=radical&bg_color=0d0b1a&color=00f3ff&icon_color=ff00e5&title_color=00f3ff&hide_border=true" alt="GitHub Stats" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=divyanshAg04&show_icons=true&theme=radical&bg_color=0d0b1a&color=00f3ff&icon_color=ff00e5&title_color=00f3ff&hide_border=true" alt="GitHub Stats" />
 
 ### 🔥 Contribution Streak
 
-<img height="200em" src="https://streak-stats.demolab.com?user=divyangAg04&theme=radical&background=0d0b1a&stroke=00f3ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f3ff&hide_border=true" alt="GitHub Streak" />
+<img height="200em" src="https://streak-stats.demolab.com?user=divyanshAg04&theme=radical&background=0d0b1a&stroke=00f3ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f3ff&hide_border=true" alt="GitHub Streak" />
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyangAg04&theme=react-dark&bg_color=0d0b1a&color=00f3ff&line=ff00e5&point=00f3ff&hide_border=true" alt="Contribution Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshAg04&theme=react-dark&bg_color=0d0b1a&color=00f3ff&line=ff00e5&point=00f3ff&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
@@ -131,16 +125,16 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│ ✨ What I'm Working On & Exploring                              │
-├─────────────────────────────────────────────────────────────────┤
-│ 💻 Advanced Full‑Stack Applications with Next.js 14              │
-│ ☕ Java Deep Dive – Multithreading & JVM Optimization           │
-│ 🐳 Kubernetes – Auto‑scaling & Service Mesh                     │
-│ 📚 System Design – Microservices & Event‑Driven Architectures  │
-│ 🔬 DSA – Advanced Algorithms & Graph Theory                     │
-│ 🌐 Open Source – Contributing to Developer Tools                │
-└─────────────────────────────────────────────────────────────────┘
+                  ┌─────────────────────────────────────────────────────────────────┐
+                  │ ✨ What I'm Working On & Exploring                              │
+                  ├─────────────────────────────────────────────────────────────────┤
+                  │ 💻 Advanced Full‑Stack Applications with Next.js 14             │
+                  │ ☕ Java Deep Dive – Multithreading & JVM Optimization           │
+                  │ 🐳 Kubernetes – Auto‑scaling & Service Mesh                     │
+                  │ 📚 System Design – Microservices & Event‑Driven Architectures   │
+                  │ 🔬 DSA – Advanced Algorithms & Graph Theory                     │
+                  │ 🌐 Open Source – Contributing to Developer Tools                │
+                  └─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -196,14 +190,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 ### 💝 Thank You for Visiting!
 
-<img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Divyansh%20Agrawal-00f3ff?style=for-the-badge" alt="Made with love" />
-
-<sub>⭐ If you find my work interesting, consider giving it a star! ⭐</sub>
-
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00f3ff,100:ff00e5&section=footer" />
-</div>
