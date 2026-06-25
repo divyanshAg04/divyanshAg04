@@ -13,23 +13,30 @@
 
 ---
 
-## ✨ Bio – Interstellar Profile
+## ✨ Bio
 
 <div align="center">
 
-░█████╗░██╗░░░░░██╗███████╗███╗░░██╗  ██████╗░░█████╗░██╗░░░██╗██�[...]
-██╔══██╗██║░░░░░██║██╔════╝████╗░██║  ██╔══██╗██╔══██╗╚██╗░██╔╝██�[...]
-███████║██║░░░░░██║█████╗░░██╔██╗██║  ██████╔╝██║░░██║░╚████╔╝░██�[...]
-██╔══██║██║░░░░░██║██╔══╝░░██║╚████║  ██╔══██╗██║░░██║░░╚██╔╝░░██�[...]
-██║░░██║███████╗██║███████╗██║░╚███║  ██║░░██║╚█████╔╝░░░██║░░░██�[...]
-╚═╝░░╚═╝╚══════╝╚═╝╚══════╝╚═╝░░╚══╝  ╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚═�[...]
+```text
+      .-"""-.
+     /  .--.  \
+    /  /    \  \
+    |  |    |  |
+    |  |.-""-.| |
+   ///`.::::.`\\\
+  |||   '::'   |||
+  |||   ALIEN  |||
+  |||   SIGNAL |||
+   \\\  :::  ///
+    `='`---'`='
+```
 
 </div>
 
+**Keyword:** rkh
+
 Greetings, traveller! I'm **Divyansh** — a developer navigating the vast universe of **web technologies, artificial intelligence, and embedded systems**.  
 Based in **Mathura, India**, I build digital galaxies one commit at a time.
-
-**Edge‑AI Voyager** — building computer-vision and embedded ML for real-time, resource-constrained devices.
 
 - 🌌 **Mission:** Craft seamless, intelligent applications.
 - 🪐 **Current orbit:** Learning advanced Node.js and microservices.
@@ -79,7 +86,7 @@ Based in **Mathura, India**, I build digital galaxies one commit at a time.
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyanshAg04&theme=dark&background=0d0b2b&ring=6a0dad&fire=00bfff&sideLabels=00bfff&dates=ffffff&hide_border=true)](https://github.com/divyanshAg04)
+[![GitHub Streak](https://streak-readme-stats.herokuapp.com?user=divyanshAg04&theme=dark&background=0d0b2b&ring=6a0dad&fire=00bfff&sideLabels=00bfff&dates=ffffff&hide_border=true)](https://github.com/divyanshAg04)
 
 </div>
 
@@ -128,7 +135,7 @@ text
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-agrawal04/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DivyanshAg04/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshagrawal536@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0b2b)](mailto:divyanshagrawal536@gmail.com)
 
 </div>
 
