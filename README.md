@@ -31,40 +31,28 @@
 
 <div align="center">
 
-### 🚀 **Full Stack Developer | DevOps Architect | Problem Solver**
+### Full Stack Developer • DevOps Architect
 
-<p style="font-size: 16px; color: #ffffff; max-width: 800px; line-height: 1.8;">
-I'm a passionate <b style="color: #00f3ff;">Full Stack Developer</b> and <b style="color: #ff00e5;">DevOps enthusiast</b> dedicated to building scalable, production‑grade applications that solve real-world problems. With expertise spanning <b>Java backend systems</b>, <b>modern frontend frameworks</b>, and <b>cloud infrastructure orchestration</b>, I craft elegant solutions that balance performance, maintainability, and architectural excellence.
+<p style="font-size: 15px; color: #00f3ff; margin: 8px 0; font-weight: 600;">
+Building scalable applications with Java, Next.js & DevOps expertise
 </p>
 
-### 🎯 **What I Do:**
-
-- **🏗️ Full-Stack Development** – Design and implement end‑to‑end applications using Next.js, React, Node.js, and Java, ensuring responsive UX and robust APIs
-- **☕ Java Mastery** – Build high‑performance backend systems with focus on OOP principles, multithreading, and JVM optimization
-- **🐳 DevOps & Cloud** – Automate deployment pipelines, containerize applications with Docker, orchestrate with Kubernetes, and implement CI/CD workflows using Jenkins
-- **🗄️ Database Architecture** – Design scalable data models with MongoDB and SQL, optimize queries, and ensure data integrity
-- **⚙️ System Design** – Architect microservices, implement event‑driven systems, and design for scalability and reliability
-
-### 💡 **Core Philosophy:**
-
-> *"Code is read 10x more than it's written"* – I believe in writing clean, self‑documenting code that's easy to maintain and extend. I'm obsessed with automation, DevOps best practices, and building systems that scale gracefully.
+| 🎯 | Full-Stack Development with modern frameworks |
+|:---:|:---|
+| ☕ | High-performance Java backend systems |
+| 🐳 | Docker, Kubernetes & CI/CD automation |
+| 🗄️ | MongoDB & SQL database architecture |
+| 📊 | System Design & Microservices |
 
 <br />
 
-**Key Strengths:**
-- 🎯 **Full‑Stack Expertise** – Equally comfortable with frontend pixels and database indexes
-- 🔄 **End-to-End Problem Solving** – From concept to production deployment
-- 📊 **Data-Driven Development** – Optimize performance through analytics and monitoring
-- 🤝 **Collaborative Mindset** – Strong communicator who thrives in team environments
-- 🎓 **Continuous Learner** – Always exploring new technologies and best practices
-
-<br />
+**Philosophy:** Clean code > Fast code | Automation > Manual work
 
 <kbd>☕ Java</kbd> <kbd>⚛️ Next.js</kbd> <kbd>🐳 Docker</kbd> <kbd>☸️ Kubernetes</kbd> <kbd>🛢️ MongoDB</kbd> <kbd>⚡ TypeScript</kbd>
 
-<br /><br />
-  
-<b>📍 India · 🌍 Open to Global Opportunities · 💼 Available for Full-Time & Contract Work</b>
+<br />
+
+<b>📍 India · 🌍 Open to Opportunities · 💼 Full-Time & Contract</b>
   
 </div>
 
@@ -112,8 +100,8 @@ I'm a passionate <b style="color: #00f3ff;">Full Stack Developer</b> and <b styl
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack |
 |:---:|:---|:---|
-| **🏥 MedCore** | Advanced Hospital Management System with patient management, appointments, billing, pharmacy inventory, medical records, and real‑time analytics dashboard. Implements Role‑Based Access Control (RBAC) with JWT authentication for secure, multi‑user operations. | Java, Spring Boot, MongoDB, React, Docker, Kubernetes |
-| **⚙️ DevOps Java App** | Java application built with DevOps best practices: CI/CD using Jenkins and GitHub, containerisation with Docker, and orchestration via Kubernetes. | Java, Jenkins, Docker, Kubernetes, GitHub, Linux |
+| **🏥 MedCore** | Hospital Management System with patient management, appointments, billing, pharmacy inventory & analytics | Java, Spring Boot, MongoDB, React, Docker, K8s |
+| **⚙️ DevOps Java App** | Java app with CI/CD pipelines, Docker containerization & Kubernetes orchestration | Java, Jenkins, Docker, K8s, GitHub |
 
 </div>
 
@@ -157,12 +145,12 @@ I'm a passionate <b style="color: #00f3ff;">Full Stack Developer</b> and <b styl
 ┌─────────────────────────────────────────────────────────────────┐
 │ ✨ What I'm Working On & Exploring                              │
 ├─────────────────────────────────────────────────────────────────┤
-│ 💻 Building Advanced Full‑Stack Applications with Next.js 14     │
-│ ☕ Deepening Java Expertise – Multithreading, JVM Internals     │
-│ 🐳 Mastering Kubernetes – Auto‑scaling, Service Mesh, Helm      │
-│ 📚 System Design – Microservices, Event‑Driven Architectures    │
-│ 🔬 DSA Practice – Advanced Graph Algorithms, DP, Segment Trees  │
-│ 🌐 Open Source – Contributing to Developer Tooling & Libraries  │
+│ 💻 Advanced Full‑Stack Applications with Next.js 14              │
+│ ☕ Java Deep Dive – Multithreading & JVM Optimization           │
+│ 🐳 Kubernetes – Auto‑scaling & Service Mesh                     │
+│ 📚 System Design – Microservices & Event‑Driven Architectures  │
+│ 🔬 DSA – Advanced Algorithms & Graph Theory                     │
+│ 🌐 Open Source – Contributing to Developer Tools                │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -175,11 +163,11 @@ I'm a passionate <b style="color: #00f3ff;">Full Stack Developer</b> and <b styl
 <div align="center">
 
 ### **I'm Open to:**
-- 🚀 Exciting Full‑Stack Project Collaborations
+- 🚀 Full‑Stack Project Collaborations
 - 💼 Internship Opportunities (Remote / Hybrid / On‑site)
-- 🎓 Knowledge Exchange & Technical Mentoring
-- 🌍 Open‑Source Contributions (Java / JS / DevOps)
-- 📝 Technical Writing & Blogging on Software Engineering
+- 🎓 Technical Mentoring & Knowledge Sharing
+- 🌍 Open‑Source Contributions
+- 📝 Technical Writing & Blogging
 
 ### **Get In Touch:**
 
@@ -204,12 +192,12 @@ I'm a passionate <b style="color: #00f3ff;">Full Stack Developer</b> and <b styl
 
 <div align="center">
 
-- ☕ **Java Addict** – I speak fluent bytecode and love JVM optimisation.
-- 🏗️ **Clean Code Fanatic** – I refactor for fun and believe code is read 10x more than it's written.
-- 🔧 **DevOps Curious** – My happy place is watching a green CI/CD pipeline run successfully.
-- 📊 **DSA Grinder** – I treat algorithmic challenges like mental gym – painful but rewarding.
-- 🌐 **Full‑Stack Believer** – I'm equally comfortable tweaking a UI pixel or tuning a database index.
-- 🎮 **Gamer at Heart** – When I'm not coding, I'm either raiding dungeons or building automation mods.
+- ☕ **Java Addict** – Fluent in bytecode & JVM optimization
+- 🏗️ **Clean Code Fanatic** – Code is read 10x more than written
+- 🔧 **DevOps Passionate** – Love watching green CI/CD pipelines
+- 📊 **DSA Grinder** – Algorithmic challenges = mental gym
+- 🌐 **Full‑Stack Believer** – Comfortable everywhere in the stack
+- 🎮 **Gamer at Heart** – Raiding dungeons when not coding
 
 </div>
 
