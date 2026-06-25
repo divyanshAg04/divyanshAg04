@@ -1,83 +1,135 @@
-# Hey there! 👋 Welcome to My GitHub Profile
-
-![Profile Views](https://komarev.com/ghpvc/?username=divyanshAg04&color=8B5E3C&style=flat-square)
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-agrawal04/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DivyanshAg04/)
-[![Email](https://img.shields.io/badge/Email-00599C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshagrawal536@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/divyanshAg04?style=for-the-badge&color=EA4335&labelColor=FAF8F5)](https://github.com/divyanshAg04)
+<img src="https://capsule-render.vercel.app/api?type=slice&height=300&text=Divyansh%20Agrawal&fontSize=46&color=0:6a0dad,100:00bfff&fontColor=ffffff&stroke=ffffff&strokeWidth=1"/>
+
+# 🚀 Galactic Developer · AI Pioneer · IoT Explorer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=divyanshAg04&color=6a0dad&style=flat-square&label=STAR+GAZERS)](https://github.com/divyanshAg04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0b2b)](https://www.linkedin.com/in/divyansh-agrawal04/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0b2b)](https://leetcode.com/u/DivyanshAg04/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0b2b)](mailto:divyanshagrawal536@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Bio – Interstellar Profile
+
+<div align="center">
+░█████╗░██╗░░░░░██╗███████╗███╗░░██╗  ██████╗░░█████╗░██╗░░░██╗██╗░░░░░
+██╔══██╗██║░░░░░██║██╔════╝████╗░██║  ██╔══██╗██╔══██╗╚██╗░██╔╝██║░░░░░
+███████║██║░░░░░██║█████╗░░██╔██╗██║  ██████╔╝██║░░██║░╚████╔╝░██║░░░░░
+██╔══██║██║░░░░░██║██╔══╝░░██║╚████║  ██╔══██╗██║░░██║░░╚██╔╝░░██║░░░░░
+██║░░██║███████╗██║███████╗██║░╚███║  ██║░░██║╚█████╔╝░░░██║░░░███████╗
+╚═╝░░╚═╝╚══════╝╚═╝╚══════╝╚═╝░░╚══╝  ╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝
+
+text
+
+</div>
+
+Greetings, traveller! I'm **Divyansh** — a developer navigating the vast universe of **web technologies, artificial intelligence, and embedded systems**.  
+Based in **Mathura, India**, I build digital galaxies one commit at a time.
+
+- 🌌 **Mission:** Craft seamless, intelligent applications.
+- 🪐 **Current orbit:** Learning advanced Node.js and microservices.
+- ⚡ **Stellar achievements:** 200+ LeetCode problems conquered.
+- 🔭 **Next frontier:** Computer vision & edge AI.
+- 📡 **Home base:** Mathura, Uttar Pradesh.
+
+---
+
+## 🛰️ Tech Constellation
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FFCA28?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-A8B9CC?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B5E3C?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-0A66C2?style=for-the-badge&logo=HTML&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-EA4335?style=for-the-badge&logo=CSS&logoColor=black)
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d0b2b)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d0b2b)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=0d0b2b)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=0d0b2b)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d0b2b)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d0b2b)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d0b2b)
 
-### Frameworks & Tools
-![Firebase](https://img.shields.io/badge/Firebase-3776AB?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white)
+### **Frameworks & Platforms**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d0b2b)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d0b2b)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=0d0b2b)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&labelColor=0d0b2b)
 
-### Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Data & Embedded**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d0b2b)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d0b2b)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=0d0b2b)
+![Raspberry Pi](https://img.shields.io/badge/Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=0d0b2b)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&title_color=89b4fa&icon_color=89dceb" height="170"/[...]
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshAg04&layout=compact&theme=nord&bg_color=1e1e2e&text_color=cdd6f4&title_color=89b4fa" height="170"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyanshAg04&theme=nord&background=1e1e2e&ring=89b4fa&fire=89b4fa&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=89dceb&dates=a6adc8"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshAg04&theme=nord&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89dceb&area=true&hide_border=true"/>
-</p>
-
----
-
-### ⚡ LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/DivyanshAg04?theme=nord&font=Karma&ext=contest"/>
-</p>
----
-
-## 🤝 Let's Connect!
+## 📊 Cosmic Stats
 
 <div align="center">
 
-**I'm open to collaborations, internships, and interesting projects!**
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=divyanshAg04&show_icons=true&theme=radical&bg_color=0d0b2b&title_color=00bfff&icon_color=6a0dad&text_color=ffffff&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divyanshAg04&layout=compact&theme=radical&bg_color=0d0b2b&title_color=00bfff&text_color=ffffff&hide_border=true"/>
 
-- 📧 **Email:** [divyanshagrawal536@gmail.com](mailto:divyanshagrawal536@gmail.com)
-- 💼 **LinkedIn:** [divyansh-agrawal04](https://linkedin.com/in/divyansh-agrawal04)
-- 🎯 **LeetCode:** [DivyanshAg04](https://leetcode.com/u/DivyanshAg04/)
-- 📍 **Location:** Mathura, Uttar Pradesh, India
+</div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshAg04&theme=dark&background=0d0b2b&ring=6a0dad&fire=00bfff&currStreakLabel=6a0dad&sideLabels=00bfff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌌 Contribution Nebula
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshAg04&theme=react-dark&bg_color=0d0b2b&color=00bfff&line=6a0dad&point=6a0dad&hide_border=true"/>
+</div>
+
+---
+
+## 🪐 LeetCode Orbit
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/DivyanshAg04?theme=dark&font=Karma&ext=contest&bg=0d0b2b&border=6a0dad&text=00bfff"/>
+</div>
+
+---
+
+## 🛸 Flagship Projects
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **Space‑Chat** | Real‑time messaging with interstellar UI | React, Socket.io, Node |
+| **Vision AI** | Object detection using YOLO | Python, OpenCV, TensorFlow |
+| **SmartPlant** | IoT plant monitor with alerts | Arduino, MQTT, Flask |
+
+---
+
+## 🧠 Current Exploration
+cd /home/divyansh/learning
+├── Building a GraphQL API
+├── Implementing CI/CD pipelines
+└── Studying transformer architectures
+
+text
+
+---
+
+## 📡 Connect Across the Void
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-agrawal04/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DivyanshAg04/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshagrawal536@gmail.com)
+
+</div>
+
+<div align="center">
+  <sub>✨ "The universe is code, and we are the developers." ✨</sub>
 </div>
