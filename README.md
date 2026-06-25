@@ -88,6 +88,15 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 </div>
 
 ---
+## 🚀 Live Projects
+
+<div align="center">
+
+[![Hospital-Management-System](https://img.shields.io/badge/%20HMS%20AI-FF1493?style=flat&logoColor=white)](medcore-kw5m.onrender.com/)
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
