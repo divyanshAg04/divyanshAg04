@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&height=280&text=Divyansh%20Agrawal&fontSize=46&color=0:00ff87,100:00d2ff&fontColor=1a1a2e&stroke=00ff87&strokeWidth=2" />
   <br />
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=900&color=00F3FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+%C2%B7+Java+%C2%B7+DevOps+%C2%B7+Cloud;Next.js+%C2%B7+MongoDB+%C2%B7+Docker+%C2%B7+Kubernetes" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=900&color=00F3FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+%C2%B7+Java+%C2%B7+DevOps" />
 
 </div>
 
@@ -51,68 +51,211 @@
 
 <div align="center">
 
-<br />
+### 🔤 Programming Languages
 
-### 🖥️ Languages
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+      <br/><strong>Java</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+      <br/><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+      <br/><strong>Python</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+      <br/><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50" height="50"/>
+      <br/><strong>SQL</strong>
+    </td>
+  </tr>
+</table>
 
-<kbd style="background: #0d0b1a; border: 2px solid #007396; color: #007396; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #00739640;">Java</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #F7DF1E; color: #F7DF1E; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #F7DF1E40;">JavaScript</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #3776AB; color: #3776AB; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #3776AB40;">Python</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #4479A1; color: #4479A1; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #4479A140;">SQL</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #3178C6; color: #3178C6; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #3178C640;">TypeScript</kbd>
+### 🎨 Frontend Technologies
 
-<br /><br />
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+      <br/><strong>Next.js 14</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+      <br/><strong>React</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
+      <br/><strong>HTML5</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
+      <br/><strong>CSS3</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50"/>
+      <br/><strong>Tailwind CSS</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
+      <br/><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
+      <br/><strong>Figma</strong>
+    </td>
+    <td colspan="3"></td>
+  </tr>
+</table>
 
-### 🎨 Frontend
+### ⚙️ Backend & Databases
 
-<kbd style="background: #0d0b1a; border: 2px solid #000000; color: #ffffff; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #00000040;">Next.js</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #61DAFB; color: #61DAFB; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #61DAFB40;">React</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #E34C26; color: #E34C26; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #E34C2640;">HTML5</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #1572B6; color: #1572B6; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #1572B640;">CSS3</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #06B6D4; color: #06B6D4; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #06B6D440;">Tailwind</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #7952B3; color: #7952B3; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #7952B340;">Bootstrap</kbd>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+      <br/><strong>Node.js</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
+      <br/><strong>Express</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+      <br/><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+      <br/><strong>MySQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
+      <br/><strong>Firebase</strong>
+    </td>
+  </tr>
+</table>
 
-<br /><br />
+### 🚀 DevOps & Cloud
 
-### ⚙️ Backend & Database
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+      <br/><strong>Docker</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/>
+      <br/><strong>Kubernetes</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50"/>
+      <br/><strong>Jenkins</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+      <br/><strong>Git</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+      <br/><strong>GitHub</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+      <br/><strong>Linux</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+      <br/><strong>Bash/Shell</strong>
+    </td>
+    <td colspan="3"></td>
+  </tr>
+</table>
 
-<kbd style="background: #0d0b1a; border: 2px solid #339933; color: #339933; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #33993340;">Node.js</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #000000; color: #ffffff; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #00000040;">Express</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #13AA52; color: #13AA52; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #13AA5240;">MongoDB</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #4479A1; color: #4479A1; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #4479A140;">MySQL</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #880000; color: #880000; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #88000040;">Mongoose</kbd>
+### 🛠️ Development Tools & Platforms
 
-<br /><br />
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+      <br/><strong>VS Code</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/>
+      <br/><strong>Postman</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="50" height="50"/>
+      <br/><strong>NPM</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="50" height="50"/>
+      <br/><strong>Maven</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="50" height="50"/>
+      <br/><strong>Gradle</strong>
+    </td>
+  </tr>
+</table>
 
-### 🔧 DevOps & Tools
+### 📚 Core CS Concepts
 
-<kbd style="background: #0d0b1a; border: 2px solid #F05032; color: #F05032; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #F0503240;">Git</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #181717; color: #ffffff; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #18171740;">GitHub</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #2496ED; color: #2496ED; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #2496ED40;">Docker</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #D24939; color: #D24939; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #D2493940;">Jenkins</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #326CE5; color: #326CE5; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #326CE540;">Kubernetes</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #007ACC; color: #007ACC; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #007ACC40;">VS Code</kbd>
-
-<br /><br />
-
-### 📚 Core CS
-
-<kbd style="background: #0d0b1a; border: 2px solid #FF6F00; color: #FF6F00; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #FF6F0040;">DSA</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #00599C; color: #00599C; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #00599C40;">OOP</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #4479A1; color: #4479A1; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #4479A140;">DBMS</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #000000; color: #ffffff; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #00000040;">OS</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #009639; color: #009639; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #00963940;">CN</kbd>
-<kbd style="background: #0d0b1a; border: 2px solid #0A47A6; color: #0A47A6; padding: 6px 18px; border-radius: 30px; font-weight: 600; box-shadow: 0 0 15px #0A47A640;">CI/CD</kbd>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square&logoColor=white" />
+      <br/><strong>Data Structures</strong><br/>Algorithms
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square&logoColor=white" />
+      <br/><strong>Object Oriented</strong><br/>Programming
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logoColor=white" />
+      <br/><strong>Database</strong><br/>Management
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/OS-000000?style=flat-square&logoColor=white" />
+      <br/><strong>Operating</strong><br/>Systems
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/CN-009639?style=flat-square&logoColor=white" />
+      <br/><strong>Computer</strong><br/>Networks
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/CI%2FCD-0A47A6?style=flat-square&logoColor=white" />
+      <br/><strong>CI/CD</strong><br/>Pipelines
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/System Design-FF6F00?style=flat-square&logoColor=white" />
+      <br/><strong>System</strong><br/>Design
+    </td>
+    <td colspan="3"></td>
+  </tr>
+</table>
 
 </div>
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |:---:|:---|:---|:---:|
-| **🏥 MedCore** | Advanced Hospital Management System with patient management, appointments, billing, pharmacy inventory, medical records, and real‑time analytics dashboard. Implements Role‑Based Access Control (RBAC) and secure middleware authentication. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?logo=mongodb&logoColor=white&style=flat-square) ![Zustand](https://img.shields.io/badge/-Zustand-FF6F00?logo=zustand&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square) | [🔗 Live](https://medcore-kw5m.onrender.com/) · [📂 Repo](https://github.com/divyangAg04/medcore) |
-| **⚙️ DevOps Java App** | Java application built with DevOps best practices: CI/CD using Jenkins and GitHub, containerisation with Docker, and orchestration via Kubernetes. Strengthened automation, version control, and cloud‑native delivery skills. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square) | [📂 Repo](https://github.com/divyangAg04/devops-java) |
+| **🏥 MedCore** | Advanced Hospital Management System with patient management, appointments, billing, pharmacy inventory, medical records, and real‑time analytics dashboard. Implements Role‑Based Access Control (RBAC) with JWT authentication for secure, multi‑user operations. | Java, Spring Boot, MongoDB, React, Docker, Kubernetes | [View](https://github.com/divyanshAg04) |
+| **⚙️ DevOps Java App** | Java application built with DevOps best practices: CI/CD using Jenkins and GitHub, containerisation with Docker, and orchestration via Kubernetes. Strengthened auto‑deployment and infrastructure automation workflows. | Java, Jenkins, Docker, Kubernetes, GitHub, Linux | [View](https://github.com/divyanshAg04) |
 
 </div>
 
@@ -120,7 +263,7 @@
 
 ### 🏥 MedCore – Deep Dive
 
-**MedCore** is a production‑grade hospital management platform designed to streamline clinical and administrative workflows. It handles complex data relationships and ensures secure, role‑based access for doctors, patients, and staff.
+**MedCore** is a production‑grade hospital management platform designed to streamline clinical and administrative workflows. It handles complex data relationships and ensures secure, role‑based access control across all operations.
 
 **Key Modules:**
 - 👨‍⚕️ **Patient Management** – Register, update, and view patient histories.
@@ -187,11 +330,11 @@ This project was my sandbox for mastering the DevOps lifecycle:
 
 ### 🎖️ GitHub Performance
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=divyangAg04&show_icons=true&theme=radical&bg_color=0d0b1a&color=00f3ff&icon_color=ff00e5&title_color=00f3ff&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=divyangAg04&show_icons=true&theme=radical&bg_color=0d0b1a&color=00f3ff&icon_color=ff00e5&title_color=00f3ff&hide_border=true" alt="GitHub Stats" />
 
 ### 🔥 Contribution Streak
 
-<img height="200em" src="https://streak-stats.demolab.com?user=divyangAg04&theme=radical&background=0d0b1a&stroke=00f3ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f3ff&hide_border=true" alt="GitHub Streak Stats" />
+<img height="200em" src="https://streak-stats.demolab.com?user=divyangAg04&theme=radical&background=0d0b1a&stroke=00f3ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f3ff&hide_border=true" alt="GitHub Streak" />
 
 ### 📈 Contribution Graph
 
@@ -214,18 +357,19 @@ This project was my sandbox for mastering the DevOps lifecycle:
 ## 🎯 Current Focus
 
 <div align="center">
-┌─────────────────────────────────────────────────────────────────────┐
-│ ✨ What I'm Working On & Exploring │
-├─────────────────────────────────────────────────────────────────────┤
-│ 💻 Building Advanced Full‑Stack Applications with Next.js 14 │
-│ ☕ Deepening Java Expertise – Multithreading, JVM Internals │
-│ 🐳 Mastering Kubernetes – Auto‑scaling, Service Mesh, Helm │
-│ 📚 System Design – Microservices, Event‑Driven Architectures │
-│ 🔬 DSA Practice – Advanced Graph Algorithms, DP, Segment Trees │
-│ 🌐 Open Source – Contributing to Developer Tooling & Libraries │
-└─────────────────────────────────────────────────────────────────────┘
 
-text
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ ✨ What I'm Working On & Exploring                              │
+├─────────────────────────────────────────────────────────────────┤
+│ 💻 Building Advanced Full‑Stack Applications with Next.js 14     │
+│ ☕ Deepening Java Expertise – Multithreading, JVM Internals     │
+│ 🐳 Mastering Kubernetes – Auto‑scaling, Service Mesh, Helm      │
+│ 📚 System Design – Microservices, Event‑Driven Architectures    │
+│ 🔬 DSA Practice – Advanced Graph Algorithms, DP, Segment Trees  │
+│ 🌐 Open Source – Contributing to Developer Tooling & Libraries  │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
