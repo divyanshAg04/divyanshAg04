@@ -31,29 +31,18 @@
 
 <div align="center">
 
-### Full Stack Developer • DevOps Architect
-
-<p style="font-size: 15px; color: #00f3ff; margin: 8px 0; font-weight: 600;">
-Building scalable applications with Java, Next.js & DevOps expertise
+<p style="font-size: 16px; color: #ffffff; max-width: 750px; line-height: 1.6;">
+Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about building scalable applications. I work with <b style="color: #ff00e5;">Java, Next.js, and DevOps</b> to create robust solutions from backend to frontend. I believe in clean code, continuous learning, and automating everything.
 </p>
 
-| 🎯 | Full-Stack Development with modern frameworks |
-|:---:|:---|
-| ☕ | High-performance Java backend systems |
-| 🐳 | Docker, Kubernetes & CI/CD automation |
-| 🗄️ | MongoDB & SQL database architecture |
-| 📊 | System Design & Microservices |
-
 <br />
-
-**Philosophy:** Clean code > Fast code | Automation > Manual work
 
 <kbd>☕ Java</kbd> <kbd>⚛️ Next.js</kbd> <kbd>🐳 Docker</kbd> <kbd>☸️ Kubernetes</kbd> <kbd>🛢️ MongoDB</kbd> <kbd>⚡ TypeScript</kbd>
 
-<br />
+<br /><br />
 
-<b>📍 India · 🌍 Open to Opportunities · 💼 Full-Time & Contract</b>
-  
+<b>📍 India · 💼 Open to Opportunities</b>
+
 </div>
 
 
