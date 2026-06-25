@@ -53,102 +53,34 @@
 
 ### 🔤 Languages
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
-      <br/><strong>Java</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
-      <br/><strong>Python</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="60" height="60"/>
-      <br/><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="60" height="60"/>
-      <br/><strong>SQL</strong>
-    </td>
-  </tr>
-</table>
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 ### 🎨 Frontend
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60"/>
-      <br/><strong>Next.js 14</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60"/>
-      <br/><strong>React</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60"/>
-      <br/><strong>Tailwind CSS</strong>
-    </td>
-  </tr>
-</table>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Database
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60"/>
-      <br/><strong>Node.js</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" height="60"/>
-      <br/><strong>Express</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
-      <br/><strong>MongoDB</strong>
-    </td>
-  </tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 
 ### 🚀 DevOps & Cloud
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" height="60"/>
-      <br/><strong>Docker</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="60" height="60"/>
-      <br/><strong>Kubernetes</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="60" height="60"/>
-      <br/><strong>Jenkins</strong>
-    </td>
-  </tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ### 🔧 Tools & Version Control
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
-      <br/><strong>Git</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
-      <br/><strong>GitHub</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/>
-      <br/><strong>VS Code</strong>
-    </td>
-  </tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 </div>
 
