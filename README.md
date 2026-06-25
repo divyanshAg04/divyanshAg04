@@ -36,7 +36,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 </div>
 
- ---
+---
  
 ## 🛠️ Tech Arsenal
 <div align="center">
@@ -164,21 +164,37 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 - 🌍 Open‑Source Contributions
 - 📝 Technical Writing & Blogging
 
-### **Get In Touch:**
+  ---
+
+### 📬 Get In Touch
 
 <table>
   <tr>
-    <td align="center"><a href="mailto:divyanshagrawal536@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a></td>
-    <td align="center"><a href="https://linkedin.com/in/divyansh-agrawal04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://leetcode.com/DivyanshAg04"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
-    <td align="center"><a href="https://github.com/divyangAg04"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
-    <td align="center"><img src="https://img.shields.io/badge/Location-India-ff00e5?style=flat" alt="Location" /></td>
+    <td align="center">
+      <a href="mailto:divyanshagrawal536@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/divyansh-agrawal04">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/DivyanshAg04">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/divyangAg04">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📍_Location-India-ff00e5?style=flat" alt="Location" />
+    </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
