@@ -4,7 +4,7 @@
 
 # Divyansh Agrawal
 
-📞 +91 78955 53959 • ✉️ divyanshagrawal536@gmail.com • GitHub: [divyanshAg04](https://github.com/divyanshAg04) • LinkedIn: (add URL)
+ ✉️ divyanshagrawal536@gmail.com • GitHub: [divyanshAg04](https://github.com/divyanshAg04) • LinkedIn: (add URL)
 
 </div>
 
