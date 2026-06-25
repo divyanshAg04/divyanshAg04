@@ -65,7 +65,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🚀 DevOps & Cloud
+### 🛠️ Build & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
@@ -80,7 +80,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 ### 🧠 Core CS Concepts
 ![DSA](https://img.shields.io/badge/DSA-FF4500?style=flat&logo=leetcode&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-007396?style=flat&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOPS-007396?style=flat&logo=java&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat&logo=mysql&logoColor=white)
 ![OS](https://img.shields.io/badge/Operating%20Systems-FCC624?style=flat&logo=linux&logoColor=black)
 ![CN](https://img.shields.io/badge/Computer%20Networks-0078D4?style=flat&logo=cisco&logoColor=white)
@@ -108,7 +108,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 ### 🎖️ GitHub Performance
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=divyanshAg04&show_icons=true&theme=radical&bg_color=0d0b1a&color=00f3ff&icon_color=ff00e5&title_color=00f3ff&hide_border=true" alt="GitHub Stats" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=divyanshAg04&show_icons=true&theme=radical&bg_color=0d0b1a&color=00f3ff&icon_color=ff00e5&title_color=00f3ff&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
 ### 🔥 Contribution Streak
 
