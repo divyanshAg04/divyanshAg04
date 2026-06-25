@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=760&height=50&lines=Divyansh+Agrawal;Galactic+Developer+•+AI+Pioneer;IoT+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=1000&color=ffffff&center=true&width=760&height=50&lines=Divyansh%20Agrawal%0AGalactic%20Developer%20%E2%80%A2%20AI%20Pioneer%0AIoT%20Explorer" alt="Typing SVG" />
 
 # 🚀 Galactic Developer · AI Pioneer · IoT Explorer
 
