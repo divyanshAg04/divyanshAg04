@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&height=280&text=Divyansh%20Agrawal&fontSize=46&color=0:00ff87,100:00d2ff&fontColor=1a1a2e&stroke=00ff87&strokeWidth=2" />
   <br />
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=900&color=00F3FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+%C2%B7+Java+%C2%B7+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=900&color=00F3FF&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+%C2%B7+Java+%C2%B7+DSA" />
 
 </div>
 
@@ -31,7 +31,7 @@
 <div align="center">
 
 <p style="font-size: 16px; color: #ffffff; max-width: 750px; line-height: 1.6;">
-Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about building scalable applications. I work with <b style="color: #ff00e5;">Java, Next.js, and DevOps</b> to create robust solutions from backend to frontend. I believe in clean code, continuous learning, and automating everything.
+Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about building scalable applications. I work with <b style="color: #ff00e5;">Java, Next.js, and DSA</b> to create robust solutions from backend to frontend. I believe in clean code, continuous learning, and automating everything.
 </p>
 
 </div>
