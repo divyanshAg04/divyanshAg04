@@ -93,7 +93,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 <div align="center">
 
 [![Hospital Management System](https://img.shields.io/badge/%20MedCore%20-FF1493?style=flat&logoColor=white)](https://medcore-kw5m.onrender.com/)
-
+[![DecisionVault](https://img.shields.io/badge/%20DecisionVault%20-7C3AED?style=flat&logoColor=white)](https://decision-vault-inky.vercel.app/)
 
 </div>
 
@@ -106,7 +106,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack |
 |:---:|:---|:---|
 | **🏥 MedCore** | Hospital Management System with patient management, appointments, billing, pharmacy inventory & analytics | Java, Spring Boot, MongoDB, React, Docker, K8s |
-| **⚙️ DevOps Java App** | Java app with CI/CD pipelines, Docker containerization & Kubernetes orchestration | Java, Jenkins, Docker, K8s, GitHub |
+| **🧭 DecisionVault** | MERN app that turns scattered college-admission research (cutoffs, placements, pros/cons) into a structured, evidence-backed decision, with an AI research summarizer/counselor and a post-decision reflection loop | React 19, Node.js, Express, MongoDB, Python (scikit-learn), Gemini AI, Docker |
 
 </div>
 
@@ -118,7 +118,7 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 
 ### 🎖️ GitHub Performance
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=divyanshAg04&show_icons=true&theme=radical&bg_color=0d0b1a&color=00f3ff&icon_color=ff00e5&title_color=00f3ff&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="200em" src="./profile/stats.svg" alt="GitHub Stats" />
 
 ### 🔥 Contribution Streak
 
@@ -230,4 +230,3 @@ Hi! I'm a <b style="color: #00f3ff;">Full Stack Developer</b> passionate about b
 </div>
 
 ---
-
